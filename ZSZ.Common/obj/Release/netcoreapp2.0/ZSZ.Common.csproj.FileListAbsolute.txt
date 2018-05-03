@@ -1,0 +1,9 @@
+D:\ZSZ\ZSZ.Common\bin\Release\netcoreapp2.0\ZSZ.Common.deps.json
+D:\ZSZ\ZSZ.Common\bin\Release\netcoreapp2.0\ZSZ.Common.dll
+D:\ZSZ\ZSZ.Common\bin\Release\netcoreapp2.0\ZSZ.Common.pdb
+D:\ZSZ\ZSZ.Common\obj\Release\netcoreapp2.0\ZSZ.Common.csprojResolveAssemblyReference.cache
+D:\ZSZ\ZSZ.Common\obj\Release\netcoreapp2.0\ZSZ.Common.csproj.CoreCompileInputs.cache
+D:\ZSZ\ZSZ.Common\obj\Release\netcoreapp2.0\ZSZ.Common.AssemblyInfoInputs.cache
+D:\ZSZ\ZSZ.Common\obj\Release\netcoreapp2.0\ZSZ.Common.AssemblyInfo.cs
+D:\ZSZ\ZSZ.Common\obj\Release\netcoreapp2.0\ZSZ.Common.dll
+D:\ZSZ\ZSZ.Common\obj\Release\netcoreapp2.0\ZSZ.Common.pdb

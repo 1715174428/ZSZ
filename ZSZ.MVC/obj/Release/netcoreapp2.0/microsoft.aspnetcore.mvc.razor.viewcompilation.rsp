@@ -1,0 +1,12 @@
+D:\ZSZ\ZSZ.MVC
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=ZSZ.MVC
+--content-root=D:\ZSZ\ZSZ.MVC
+--file=D:\ZSZ\ZSZ.MVC\Views\Home\About.cshtml
+--file=D:\ZSZ\ZSZ.MVC\Views\Home\Contact.cshtml
+--file=D:\ZSZ\ZSZ.MVC\Views\Home\Index.cshtml
+--file=D:\ZSZ\ZSZ.MVC\Views\Shared\Error.cshtml
+--file=D:\ZSZ\ZSZ.MVC\Views\Shared\_Layout.cshtml
+--file=D:\ZSZ\ZSZ.MVC\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\ZSZ\ZSZ.MVC\Views\_ViewImports.cshtml
+--file=D:\ZSZ\ZSZ.MVC\Views\_ViewStart.cshtml

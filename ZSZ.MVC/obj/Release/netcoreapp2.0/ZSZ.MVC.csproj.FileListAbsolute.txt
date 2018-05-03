@@ -1,0 +1,10 @@
+D:\ZSZ\ZSZ.MVC\bin\Release\netcoreapp2.0\ZSZ.MVC.deps.json
+D:\ZSZ\ZSZ.MVC\bin\Release\netcoreapp2.0\ZSZ.MVC.runtimeconfig.json
+D:\ZSZ\ZSZ.MVC\bin\Release\netcoreapp2.0\ZSZ.MVC.runtimeconfig.dev.json
+D:\ZSZ\ZSZ.MVC\bin\Release\netcoreapp2.0\ZSZ.MVC.dll
+D:\ZSZ\ZSZ.MVC\bin\Release\netcoreapp2.0\ZSZ.MVC.pdb
+D:\ZSZ\ZSZ.MVC\obj\Release\netcoreapp2.0\ZSZ.MVC.csproj.CoreCompileInputs.cache
+D:\ZSZ\ZSZ.MVC\obj\Release\netcoreapp2.0\ZSZ.MVC.AssemblyInfoInputs.cache
+D:\ZSZ\ZSZ.MVC\obj\Release\netcoreapp2.0\ZSZ.MVC.AssemblyInfo.cs
+D:\ZSZ\ZSZ.MVC\obj\Release\netcoreapp2.0\ZSZ.MVC.dll
+D:\ZSZ\ZSZ.MVC\obj\Release\netcoreapp2.0\ZSZ.MVC.pdb

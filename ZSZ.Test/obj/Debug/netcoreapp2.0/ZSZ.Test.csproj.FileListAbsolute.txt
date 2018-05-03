@@ -1,0 +1,14 @@
+D:\ZSZ\ZSZ.Test\bin\Debug\netcoreapp2.0\ZSZ.Test.deps.json
+D:\ZSZ\ZSZ.Test\bin\Debug\netcoreapp2.0\ZSZ.Test.runtimeconfig.json
+D:\ZSZ\ZSZ.Test\bin\Debug\netcoreapp2.0\ZSZ.Test.runtimeconfig.dev.json
+D:\ZSZ\ZSZ.Test\bin\Debug\netcoreapp2.0\ZSZ.Test.dll
+D:\ZSZ\ZSZ.Test\bin\Debug\netcoreapp2.0\ZSZ.Test.pdb
+D:\ZSZ\ZSZ.Test\bin\Debug\netcoreapp2.0\ZSZ.Common.dll
+D:\ZSZ\ZSZ.Test\bin\Debug\netcoreapp2.0\ZSZ.Common.pdb
+D:\ZSZ\ZSZ.Test\obj\Debug\netcoreapp2.0\ZSZ.Test.csprojResolveAssemblyReference.cache
+D:\ZSZ\ZSZ.Test\obj\Debug\netcoreapp2.0\ZSZ.Test.csproj.CoreCompileInputs.cache
+D:\ZSZ\ZSZ.Test\obj\Debug\netcoreapp2.0\ZSZ.Test.AssemblyInfoInputs.cache
+D:\ZSZ\ZSZ.Test\obj\Debug\netcoreapp2.0\ZSZ.Test.AssemblyInfo.cs
+D:\ZSZ\ZSZ.Test\obj\Debug\netcoreapp2.0\ZSZ.Test.csproj.CopyComplete
+D:\ZSZ\ZSZ.Test\obj\Debug\netcoreapp2.0\ZSZ.Test.dll
+D:\ZSZ\ZSZ.Test\obj\Debug\netcoreapp2.0\ZSZ.Test.pdb
