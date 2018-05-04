@@ -1,9 +1,11 @@
 D:\ZSZ\ZSZ.Common\bin\Debug\netcoreapp2.0\ZSZ.Common.deps.json
 D:\ZSZ\ZSZ.Common\bin\Debug\netcoreapp2.0\ZSZ.Common.dll
 D:\ZSZ\ZSZ.Common\bin\Debug\netcoreapp2.0\ZSZ.Common.pdb
+D:\ZSZ\ZSZ.Common\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Logging.dll
+D:\ZSZ\ZSZ.Common\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Logging.xml
 D:\ZSZ\ZSZ.Common\obj\Debug\netcoreapp2.0\ZSZ.Common.csproj.CoreCompileInputs.cache
 D:\ZSZ\ZSZ.Common\obj\Debug\netcoreapp2.0\ZSZ.Common.AssemblyInfoInputs.cache
 D:\ZSZ\ZSZ.Common\obj\Debug\netcoreapp2.0\ZSZ.Common.AssemblyInfo.cs
+D:\ZSZ\ZSZ.Common\obj\Debug\netcoreapp2.0\ZSZ.Common.csproj.CopyComplete
 D:\ZSZ\ZSZ.Common\obj\Debug\netcoreapp2.0\ZSZ.Common.dll
 D:\ZSZ\ZSZ.Common\obj\Debug\netcoreapp2.0\ZSZ.Common.pdb
-D:\ZSZ\ZSZ.Common\obj\Debug\netcoreapp2.0\ZSZ.Common.csprojResolveAssemblyReference.cache

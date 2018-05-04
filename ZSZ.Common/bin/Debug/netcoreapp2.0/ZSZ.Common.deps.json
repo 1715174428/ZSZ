@@ -9,7 +9,8 @@
       "ZSZ.Common/1.0.0": {
         "dependencies": {
           "SixLabors.ImageSharp": "1.0.0-beta0001",
-          "SixLabors.ImageSharp.Drawing": "1.0.0-beta0001"
+          "SixLabors.ImageSharp.Drawing": "1.0.0-beta0001",
+          "Microsoft.Extensions.Logging": "2.0.1.0"
         },
         "runtime": {
           "ZSZ.Common.dll": {}
@@ -265,7 +266,12 @@
           "System.Threading.Tasks": "4.3.0"
         }
       },
-      "System.ValueTuple/4.4.0": {}
+      "System.ValueTuple/4.4.0": {},
+      "Microsoft.Extensions.Logging/2.0.1.0": {
+        "runtime": {
+          "Microsoft.Extensions.Logging.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -504,6 +510,11 @@
       "sha512": "sha512-BahUww/+mdP4ARCAh2RQhQTg13wYLVrBb9SYVgW8ZlrwjraGCXHGjo0oIiUfZ34LUZkMMR+RAzR7dEY4S1HeQQ==",
       "path": "system.valuetuple/4.4.0",
       "hashPath": "system.valuetuple.4.4.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging/2.0.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

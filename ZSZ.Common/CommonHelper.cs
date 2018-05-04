@@ -1,4 +1,5 @@
-﻿using SixLabors.Fonts;
+﻿using Microsoft.Extensions.Logging;
+using SixLabors.Fonts;
 using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.Drawing;
 using System;
@@ -15,6 +16,8 @@ namespace ZSZ.Common
 {
     public static class CommonHelper
     {
+
+        
         /// <summary>
         /// 获取一个字符串的MD5值
         /// </summary>

@@ -7,6 +7,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+using NLog.Web;
 
 namespace ZSZ.MVC
 {
@@ -14,12 +15,31 @@ namespace ZSZ.MVC
     {
         public static void Main(string[] args)
         {
-            BuildWebHost(args).Run();
+            var logger = NLogBuilder.ConfigureNLog("nlog.config").GetCurrentClassLogger();
+            try
+            {
+               
+                BuildWebHost(args).Run();
+            }
+            catch (Exception ex)
+            {
+                logger.Error(ex, "错误日志");
+            }
+            finally
+            {
+                NLog.LogManager.Shutdown();
+            }
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
-                .Build();
+               .ConfigureLogging(logging =>
+               {
+                   logging.ClearProviders();
+                   logging.SetMinimumLevel(Microsoft.Extensions.Logging.LogLevel.Trace);
+               })
+              .UseNLog()
+              .Build();
     }
 }

@@ -181,11 +181,25 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ZSZ.Common\ZSZ.Common.csproj" />
+    <ProjectReference Include="..\ZSZ.MVC\ZSZ.MVC.csproj" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="wwwroot\images\thumbnailimages\" />
     <Folder Include="wwwroot\images\watermarkimages\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="nlog.web.aspnetcore" Version="4.5.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.AspNetCore">
+      <HintPath>C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.aspnetcore\2.0.2\lib\netstandard2.0\Microsoft.AspNetCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions">
+      <HintPath>C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.logging.abstractions\2.0.1\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

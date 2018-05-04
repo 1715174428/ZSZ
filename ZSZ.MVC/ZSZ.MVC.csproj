@@ -5,7 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="nlog.config" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.7" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.3" />
+    <PackageReference Include="nlog.web.aspnetcore" Version="4.5.3" />
   </ItemGroup>
 
   <ItemGroup>
@@ -15,6 +21,12 @@
   <ItemGroup>
     <Folder Include="wwwroot\images\watermarkimages\" />
     <Folder Include="wwwroot\images\thumbnailimages\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="nlog.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
   <ItemGroup>

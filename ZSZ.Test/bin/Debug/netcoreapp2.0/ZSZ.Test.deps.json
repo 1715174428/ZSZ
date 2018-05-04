@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v2.0": {
       "ZSZ.Test/1.0.0": {
         "dependencies": {
-          "ZSZ.Common": "1.0.0"
+          "ZSZ.Common": "1.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "2.0.1.0"
         },
         "runtime": {
           "ZSZ.Test.dll": {}
@@ -273,6 +274,11 @@
         "runtime": {
           "ZSZ.Common.dll": {}
         }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/2.0.1.0": {
+        "runtime": {
+          "Microsoft.Extensions.Logging.Abstractions.dll": {}
+        }
       }
     }
   },
@@ -515,6 +521,11 @@
     },
     "ZSZ.Common/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging.Abstractions/2.0.1.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

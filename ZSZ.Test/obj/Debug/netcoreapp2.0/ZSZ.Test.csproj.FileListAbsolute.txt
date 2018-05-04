@@ -12,3 +12,6 @@ D:\ZSZ\ZSZ.Test\obj\Debug\netcoreapp2.0\ZSZ.Test.AssemblyInfo.cs
 D:\ZSZ\ZSZ.Test\obj\Debug\netcoreapp2.0\ZSZ.Test.csproj.CopyComplete
 D:\ZSZ\ZSZ.Test\obj\Debug\netcoreapp2.0\ZSZ.Test.dll
 D:\ZSZ\ZSZ.Test\obj\Debug\netcoreapp2.0\ZSZ.Test.pdb
+D:\ZSZ\ZSZ.Test\bin\Debug\netcoreapp2.0\nlog.config
+D:\ZSZ\ZSZ.Test\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ZSZ\ZSZ.Test\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Logging.Abstractions.xml
