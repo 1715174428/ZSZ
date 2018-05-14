@@ -18,6 +18,7 @@ namespace ZSZ.Test
     {
         static void Main(string[] args)
         {
+            #region MD5/获取随机字符串/发送邮件/获取文件路径/记录日志
             //var md5 = Common.CommonHelper.GetMd5("123");
             //Console.WriteLine(md5);
             //var code = Common.CommonHelper.GetCaptchaCode(5);
@@ -42,6 +43,7 @@ namespace ZSZ.Test
             //finally {
             //    NLog.LogManager.Shutdown();
             //}
+            #endregion
             Console.WriteLine("设定任务任务");
             Task.Run(async ()=> {
                 try
@@ -62,6 +64,7 @@ namespace ZSZ.Test
                     await Task.Delay(TimeSpan.FromSeconds(60));
                     //关闭调度程序
                     await scheduler.Shutdown();
+
 
                 }
                 catch (Exception ex)

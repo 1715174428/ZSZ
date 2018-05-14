@@ -1,0 +1,9 @@
+D:\ZSZ\TestService\bin\Debug\TestService.dll
+D:\ZSZ\TestService\bin\Debug\TestService.pdb
+D:\ZSZ\TestService\bin\Debug\TestIService.dll
+D:\ZSZ\TestService\bin\Debug\TestIService.pdb
+D:\ZSZ\TestService\obj\Debug\TestService.csprojResolveAssemblyReference.cache
+D:\ZSZ\TestService\obj\Debug\TestService.csproj.CoreCompileInputs.cache
+D:\ZSZ\TestService\obj\Debug\TestService.csproj.CopyComplete
+D:\ZSZ\TestService\obj\Debug\TestService.dll
+D:\ZSZ\TestService\obj\Debug\TestService.pdb
